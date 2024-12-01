@@ -33,6 +33,8 @@ This activity combines programming fundamentals, hardware simulation, and memory
 # Development of the snake game in ripes
 ## Flowchart
 
+![Flowchart](<Flowchart.jpg>)
+
 ## C code
 
 ```C
