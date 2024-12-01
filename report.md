@@ -239,6 +239,8 @@ void main() {
 **BEST HIT RATE:** 0.999
 
 # CONCLUSION
-**José Enrique Rios Gómez:**
+**José Enrique Rios Gómez:** This code was built as a playground to dive into different cache mapping techniques and test how they work in practice. It simulates scenarios like direct mapping with varying line counts, associative caches with specific sets and ways, and even fully associative designs. The goal was to understand how these configurations behave and how the snake game's performance interacts with each setup.
+
+It’s like giving the same puzzle to different kinds of storage and seeing how each one solves it. Whether it’s a simple 4-line direct map or a beefy 16-way fully associative setup, this code helped bring the theory to life. Honestly, it was pretty cool to see how the different mappings influenced the behavior of something as simple as moving pixels on a grid. This hands-on approach made those dry cache mapping concepts way more relatable.
 
 **:**
