@@ -25,15 +25,14 @@ The game display will be carried out through a matrix of LEDs, while the player'
 
 This activity combines programming fundamentals, hardware simulation, and memory systems analysis, offering a comprehensive experience to understand the impact of memory design on practical applications.
 
+
 ## Github repository
-
 [[Click here] https://github.com/Hoverpi/C_Snake](https://github.com/Hoverpi/C_Snake)
-
 
 # Development of the snake game in ripes
 ## Flowchart
 
-![Flowchart](<Flowchart.jpg>)
+![Flowchart](Flowchart.jpg){width=350 height=650}
 
 ## C code
 
@@ -209,33 +208,51 @@ void main() {
 
 # Cache Testing
 ## Direct mapping with 4 lines
-![Direct mapping with 4 lines config](images\Direct-mapping-with-4-lines-config.png)
-![Direct mapping with 4 lines graph](images\Direct-mapping-with-4-lines-graph.png)
+![Direct mapping with 4 lines config](images/Direct-mapping-with-4-lines-config.png){width=600 height=500}
+
+![Direct mapping with 4 lines graph](images/Direct-mapping-with-4-lines-graph.png){width=600 height=350}
+
+
 **HIT RATE:** 0.9975
 
 ## Associative with 2 lines and 2 ways
-![Associative with 2 lines and 2 ways config](images\Associative-with-2-lines-and-2-ways-config.png)
-![Associative with 2 lines and 2 ways graph](images\Associative-with-2-lines-and-2-ways-graph.png)
+![Associative with 2 lines and 2 ways config](images/Associative-with-2-lines-and-2-ways-config.png){width=600 height=500}
+
+![Associative with 2 lines and 2 ways graph](images/Associative-with-2-lines-and-2-ways-graph.png){width=600 height=350}
+
+
 **HIT RATE:** 0.998
 
 ## Fully associative with 4 ways
-![Fully associative with 4 ways config](images\Fully-associative-with-4-ways-config.png)
-![Fully associative with 4 ways graph](images\Fully-associative-with-4-ways-graph.png)
+![Fully associative with 4 ways config](images/Fully-associative-with-4-ways-config.png){width=600 height=500}
+
+![Fully associative with 4 ways graph](images/Fully-associative-with-4-ways-graph.png){width=600 height=350}
+
+
 **HIT RATE:** 0.9982
 
 ## Direct mapping with 16 lines
-![Direct mapping with 16 lines config](images\Direct-mapping-with-16-lines-config.png)
-![Direct mapping with 16 lines graph](images\Direct-mapping-with-16-lines-graph.png)
+![Direct mapping with 16 lines config](images/Direct-mapping-with-16-lines-config.png){width=600 height=500}
+
+![Direct mapping with 16 lines graph](images/Direct-mapping-with-16-lines-graph.png){width=600 height=350}
+
+
 **HIT RATE:** 0.9986
 
 ## Associative with 4 lines and 4 ways
-![Associative with 4 lines and 4 ways config](images\Associative-with-4-lines-and-4-ways-config.png)
-![Associative with 4 lines and 4 ways](images\Associative-with-4-lines-and-4-ways-graph.png)
+![Associative with 4 lines and 4 ways config](images/Associative-with-4-lines-and-4-ways-config.png){width=600 height=500}
+
+![Associative with 4 lines and 4 ways](images/Associative-with-4-lines-and-4-ways-graph.png){width=600 height=350}
+
+
 **HIT RATE:** 0.999
 
 ## Fully associative with 16 ways
-![Fully associative with 16 ways config](images\Fully-associative-with-16-ways-config.png)
-![Fully associative with 16 ways graph](images\Fully-associative-with-16-ways-graph.png)
+![Fully associative with 16 ways config](images/Fully-associative-with-16-ways-config.png){width=600 height=500}
+
+![Fully associative with 16 ways graph](images/Fully-associative-with-16-ways-graph.png){width=600 height=350}
+
+
 **HIT RATE:** 0.9988
 
 **BEST HIT RATE:** 0.999
