@@ -245,4 +245,5 @@ void main() {
 
 It’s like giving the same puzzle to different kinds of storage and seeing how each one solves it. Whether it’s a simple 4-line direct map or a beefy 16-way fully associative setup, this code helped bring the theory to life. Honestly, it was pretty cool to see how the different mappings influenced the behavior of something as simple as moving pixels on a grid. This hands-on approach made those dry cache mapping concepts way more relatable.
 
-**:**
+**Yael Salvador Morales Renteria:** By working with this code, I have learned about C programming with hardware interaction. First, I understood how to use pointers to manipulate hardware registers. This was crucial for controlling the system's LEDs and buttons, which helped me directly connect the program logic to the physical outputs.
+Another thing I learned was looking at data in an LED array and the importance of considering performance and hardware limits such as LED array size and maximum snake length.
